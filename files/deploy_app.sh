@@ -12,6 +12,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
   <center>This cool webapp was created with Terraform and version controlled with GitHub.  Hurray!</center>
+  <Center>Looking for more cool stuff? <a href="#">Click here to contact me directly!</a></center>
   <!-- END -->
 
   </div>
