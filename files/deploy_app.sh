@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  <center>Welcome to my firt WebApp This is my amazing webapp deployed with Terraform!</center>
+  <center>This cool webapp was created with Terraform and version controlled with GitHub.  Hurray!</center>
   <!-- END -->
 
   </div>
